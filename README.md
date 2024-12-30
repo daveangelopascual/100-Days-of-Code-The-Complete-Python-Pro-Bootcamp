@@ -2,7 +2,7 @@
 by Dr. Angela Yu <br>
 <a href = "https://www.udemy.com/course/100-days-of-code/">Find on Udemy </a>
  
-#Throughout this comprehensive course, we cover a massive amount of tools and technologies, including:
+# Throughout this comprehensive course, we cover a massive amount of tools and technologies, including:
 
 Python 3 - the latest version of Python <br>
 PyCharm, Jupyter Notebook, Google Colab <br>
